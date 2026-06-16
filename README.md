@@ -11,7 +11,8 @@
 * 💻 I’m currently working on... **building custom AI CLI agents and orchestration tools (like gemi3.py!)**
 * 📚 I’m currently learning... **everything about React, exploring ESP32 microcontrollers, and perfecting my Linux ricing.**
 * 💬 Ask me about... **Python scripting, Arch Linux/Ubuntu setups, Termux magic, or maximizing Minecraft Java Edition performance!**
-* 📫 How to reach me: **[Insert your email or link here!]**
+* 📫 How to reach me: <a href="https://instagram.com/shado_with_linux"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @shado_with_linux"/></a>
+
 
 ---
 
