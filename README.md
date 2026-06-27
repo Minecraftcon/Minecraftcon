@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Minecraftcon! 
+# 💫 Hi there, I'm Shado! 
 
 <div align="center">
   <!-- The moebooru-h visitor counter -->
